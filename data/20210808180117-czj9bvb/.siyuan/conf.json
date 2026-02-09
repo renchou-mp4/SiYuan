@@ -1,8 +1,8 @@
 {
   "name": "思源笔记用户指南",
-  "sort": -1,
+  "sort": 2,
   "icon": "1f4d4",
-  "closed": false,
+  "closed": true,
   "refCreateSaveBox": "",
   "refCreateSavePath": "",
   "docCreateSaveBox": "",
